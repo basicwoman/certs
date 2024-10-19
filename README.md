@@ -1,5 +1,5 @@
 # certs
-Сертификаты Какабаевой Лейли Довлетовны:
+Сертификаты:
 - UserGate Certified Specialist по версии UGOS 6;
 - Certified Specialist (CS) по продукту PT AF PRO;
 - Sales Consultant (SC) по продукту PT Application Firewall;
